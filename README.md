@@ -1,7 +1,7 @@
 # Tamara-Williams-Portfolio
 # Tamara-Williams-Portfolio
 
-![Tamara Williams Banner](./assets/Data Analyst Banner.png)
+![Tamara Williams Banner](.assets/Data Analyst Banner.png)
 
 # Tamara Williams – Data & Business Intelligence Portfolio
 
