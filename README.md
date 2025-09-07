@@ -9,7 +9,7 @@ My focus is on transforming raw data into **executive dashboards, compliance sol
 ## 🚀 Featured Projects
 
 ### 📂 Telecom Revenue Protection Dashboard
-**Problem:** Telecom billing systems are prone to revenue leakage from missing bills, proration errors, usage mismatches, and discount/tax inconsistencies. 
+**Problem:** Telecom billing systems are prone to revenue leakage from missing bills, proration errors, usage mismatches, and discount/tax inconsistencies.       
 **Solution:** At Verizon (a Fortune 10 telecom), I developed advanced SQL anomaly detection queries to flag billing discrepancies, and I’m extending the solution into a Tableau executive dashboard with optional Python automation for scheduled monitoring. 
 **Impact:** This approach enables proactive detection of anomalies that can improve billing accuracy by ~30% and protect tens of millions in annual revenue, based on internal analysis (data shown here is de-identified for demonstration).  
 **Tools:** Tableau | SQL | Python | Jira  
