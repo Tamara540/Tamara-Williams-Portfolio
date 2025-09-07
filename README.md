@@ -14,7 +14,8 @@ My focus is on transforming raw data into **executive dashboards, compliance sol
 **Impact:** Increased billing accuracy by **30%**, preventing over **$20M in annual losses**.  
 **Tools:** Tableau | SQL | Python | Jira  
 
-👉 [SQL Scripts](./Telecom_Revenue_Dashboard/SQL_Scripts/revenue_anomaly_queries.sql)  
+👉 [View SQL Query on GitHub](https://github.com/Tamara540/telecom-revenue-protection/blob/main/telecom_anomaly_detection.sql)
+
 👉 [Dashboard Preview](#)
 
 ---
