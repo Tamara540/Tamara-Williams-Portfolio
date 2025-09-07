@@ -64,6 +64,6 @@ I bring the same impact-driven mindset to every role, ensuring data analysis tra
 ---
 
 📩 **Contact Me**  
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Email: tamara@example.com
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/tamarawilliams1/)](#)  
+- Email: tamarawilliams540@gmail.com
 
