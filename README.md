@@ -1,7 +1,7 @@
 ![Tamara Williams – Data & Business Intelligence Analyst](assets/DataAnalystBanner.png)
 
 
-Welcome! I’m a Business Intelligence and FinOps Analyst with expertise in SaaS, telecom, healthcare, and security sectors.  
+Welcome! I’m a Business Intelligence and Data Analyst with expertise in SaaS, telecom, healthcare, and security sectors.  
 My focus is on transforming raw data into **executive dashboards, compliance solutions, and financial insights** that solve operational pain points, protect revenue, and empower strategic decision-making.
 
 ---
